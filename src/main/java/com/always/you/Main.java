@@ -10,6 +10,8 @@ public class Main {
 		        	.build();
 		
 		System.out.println(bag.toString());
+		System.out.println(bag.toString());
+		System.out.println(bag.toString());
 
 	}
 
